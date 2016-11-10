@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Thermometer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thermometer_jar</output-path>
+    <root id="archive" name="Thermometer.jar">
+      <element id="module-output" name="Thermometer" />
+    </root>
+  </artifact>
+</component>
